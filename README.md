@@ -38,3 +38,9 @@ List<Rectangle> res=detector.getFaces(fileName, 2, 1.25f, 0.1f,3,true);
 If you don't detect enough faces (or too much), please adjust the Parameters.
 ```
 
+
+--------------------------
+
+jViolajones是人脸检测算法Viola-Jones的一个Java实现，并能够加载OpenCV XML文件。
+
+示例代码：http://www.oschina.net/code/snippet_12_2033
